@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ejercicio2_ComunicacionActivitys</string>
+    <string name="introducir_usuario">Introduce un usuario:</string>
+    <string name="introducir_contraseña">Introduce una contraseña:</string>
+    <string name="comprobar">Comprobar</string>
+    <string name="existe_el_usuario">EL USUARIO EXISTE!</string>
+    <string name="introduce_usuario">Introduce un usuario.</string>
+    <string name="introduce_contraseña">Introduce una contraseña.</string>
+    <string name="volver">Volver</string>
+</resources>
