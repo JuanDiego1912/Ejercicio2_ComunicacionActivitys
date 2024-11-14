@@ -39,7 +39,7 @@ class ExisteUsuario : AppCompatActivity() {
     fun getUser() : User? {
 
         val bdUsuarios = UserRepository()
-        val userName = intent.getStringExtra("USER_NAME")
+        val userName = intent.getStringExtra("USER_NAME") ?: "Usuario desconocido"
 
         tvUsuario.text = "${tvUsuario.text} ${userName}"
 
